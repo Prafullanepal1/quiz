@@ -8,6 +8,7 @@ Once running, you can make GET requests at:
 
 The application uses an extra dependency for Lombok which is there to minimize the boiler plate code
 like getter, setter, No args constructor and all args constructor.
+The application also uses dependency for mockito which is used to write unit test for rest controller methods.
 
 The url take two query parameters. 
 
